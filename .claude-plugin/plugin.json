@@ -1,0 +1,8 @@
+{
+  "name": "focus",
+  "description": "Claude plugin for Focus School Software. Namespace reserved.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Focus School Software"
+  }
+}
